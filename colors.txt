@@ -1,0 +1,7 @@
+1st - (morning light orange to light blue)  background: linear-gradient(0deg, rgba(62,187,255,1) 0%, rgba(136,214,247,1) 19%, rgba(189,241,242,1) 39%, rgba(255,200,155,1) 65%, rgba(255,191,116,1) 91%, rgba(255,171,134,1) 100%);background: linear-gradient(0deg, rgba(155,237,217,1) 0%, rgba(136,247,247,1) 7%, rgba(139,255,252,1) 19%, rgba(188,241,211,1) 32%, rgba(233,227,172,1) 50%, rgba(227,200,124,1) 75%, rgba(255,194,113,1) 84%, rgba(255,171,134,1) 95%);
+
+middle (1-late afternooon) - background: linear-gradient(180deg, rgba(108,157,203,1) 0%, rgba(168,107,189,1) 16%, rgba(140,89,186,1) 35%, rgba(49,100,227,1) 54%, rgba(150,66,255,1) 78%, rgba(36,104,241,1) 100%);
+
+last (night)(dark red to bluish purple- black) -background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(41,14,50,1) 18%, rgba(31,3,56,1) 39%, rgba(94,37,125,1) 61%, rgba(110,24,110,1) 76%, rgba(103,20,87,1) 89%, rgba(112,0,30,1) 100%);
+
+
